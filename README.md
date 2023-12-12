@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](github-banner.avif)
+![Header](banner.jpg)
 <!--
 **tkillia2/tkillia2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
